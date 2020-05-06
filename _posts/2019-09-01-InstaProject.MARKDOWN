@@ -38,7 +38,7 @@ I made a insta clone. it is writeen by python, js, html
 
 I made #, posing, login, sign in functions like instagram.
 
-check out instaclone page here (https://instaclone-tfzvo.run.goorm.io/post/)
+check out instaclone page here [My instaclone](https://instaclone-tfzvo.run.goorm.io/post)
 
 
 Check out [My github](https://github.com/do324/instaclone) for see more code.
