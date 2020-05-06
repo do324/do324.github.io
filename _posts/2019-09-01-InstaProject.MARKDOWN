@@ -10,7 +10,7 @@ layout: post
 
 
 
-title:  "instaclone_project"
+title:  "instaclone project"
 
 
 
